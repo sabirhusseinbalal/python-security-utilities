@@ -5,13 +5,20 @@ progressing from beginner to advanced real-world projects.
 
 ## 📌 Planned Projects
 
-- Random Password Generator
-- Recursive Password Generator
-- Create Password Hash
-- Encrypt & Decrypt Text
-- Encrypt Files & Folders
-- Fetch Open Ports
-- Website Blocker & Unblocker
+1. File Integrity Checker (SHA256)		
+2. Secure File Vault		
+3. Password Strength Analyzer		
+4. JWT Token Validator		
+5. TOTP 2FA Generator		
+6. Log Monitoring Tool		
+7. Port Scanner (educational)		
+8. Encrypted Backup System		
+9. Secure Notes CLI		
+10. API Key Vault Manager		
+11. Secure File Shredder		
+12. SSL Expiry Monitor		
+13. Token Expiry Analyzer		
+14. System Audit Logger
 
 ### Clone the repository using the command:
    ```bash
