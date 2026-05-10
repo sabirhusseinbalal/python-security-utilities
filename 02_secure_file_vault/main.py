@@ -80,16 +80,21 @@ def menu():
         print("Invalid choice!")
 
 
+# Data load
+def load_json_safe(json_file):
+    if json_file.exists():
+        try:
+            with json_file.open("r") as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            print("[WARNING] Corrupted JSON detected. Resetting file.")
+            return {}
+    return {}
+    
 # Main Logic 
 def secure_file(file_path):
     json_file = OUTPUT_DIR / "data.json"
-
-    # load data
-    if json_file.exists():
-        with json_file.open("r") as f:
-            data = json.load(f)
-    else:
-        data = {}
+    data = load_json_safe(json_file)
 
     choice = menu()
 
