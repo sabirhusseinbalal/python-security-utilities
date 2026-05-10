@@ -1,30 +1,75 @@
-### python-security-utilities | In Progress...
+# Security, Encryption & Utilities Projects
 
-This repository is part of a structured Python learning roadmap,
-progressing from beginner to advanced real-world projects.
+## Description
+This repository is part of my beginner Python roadmap.
 
-## 📌 Planned Projects
+This group focuses on cybersecurity basics, encryption systems, secure storage, networking, authentication, and useful security utilities.
 
-1. File Integrity Checker (SHA256)		
-2. Secure File Vault		
-3. Password Strength Analyzer		
-4. JWT Token Validator		
-5. TOTP 2FA Generator		
-6. Log Monitoring Tool		
-7. Port Scanner (educational)		
-8. Encrypted Backup System		
-9. Secure Notes CLI		
-10. API Key Vault Manager		
-11. Secure File Shredder		
-12. SSL Expiry Monitor		
-13. Token Expiry Analyzer		
-14. System Audit Logger
+The goal was not to build perfect enterprise tools, but to understand how real systems work internally by building simplified versions step-by-step.
+
+Each project helped me learn core concepts like hashing, encryption, authentication, token systems, OTP verification, SSL certificates, port scanning, secure deletion, and monitoring.
+
+---
+
+## Projects
+
+01. **[File Integrity Checker (SHA256)](01_File_Integrity_checker/)** – File Integrity Checker (SHA256)
+02. **[Secure File Vault](02_secure_file_vault/)** – Encrypts and stores files securely using password-based protection.
+03. **[Password Strength Analyzer](03_password_strength_analyzer/)** – Analyzes password strength using different security checks.
+04. **[JWT Token Validator](04_jwt_token_validator/)** – Reads and validates JWT token payloads and signatures.
+05. **[TOTP 2FA Generator](05_totp_2fa_generator/)** – Generates time-based OTP codes for simple 2FA login simulation.
+06. **[Log Monitoring Tool](06_log_monitoring_tool/)** – Scans log files and detects suspicious login activity.
+07. **[Port Scanner (Educational)](07_port_scanner_educational/)** – Checks common ports on a target domain.
+08. **[Encrypted Backup System](08_encrypted_backup_system/)** – Creates encrypted backups of files and folders.
+09. **[Secure Notes CLI](09_secure_notes_cli/)** – Stores encrypted notes securely inside local files.
+10. **[API Key Vault Manager](10_api_key_vault_manager/)** – Encrypts and manages API keys locally.
+11. **[Secure File Shredder](11_secure_file_shredder/)** – Securely overwrites and deletes files.
+12. **[SSL Expiry Monitor](12_ssl_expiry_monitor/)** – Checks SSL certificate information and expiry dates.
+13. **[JWT Token Manager](13_jwt_token_manager/)** – Creates, validates, deletes, and manages JWT tokens locally.
+14. **[14. Security Toolkit](14_security_toolkit/)** – A combined toolkit containing multiple small security utilities.
+
+---
+
+### Main Topics Covered
+- Hashing
+- Encryption
+- File security
+- Authentication
+- JWT tokens
+- OTP systems
+- SSL certificates
+- Network basics
+- Port scanning
+- Log analysis
+- Secure deletion
+- Security utilities
+
+---
+
+### Skills Improved
+- Python file handling
+- JSON storage systems
+- Secure coding basics
+- CLI application structure
+- Error handling
+- Authentication logic
+- Encryption workflows
+- Network communication
+- Real-world security concepts
 
 ### Clone the repository using the command:
    ```bash
    git clone https://github.com/Sabirhusseinbalal/python-security-utilities.git
    ```
 
+---
+### Notes
+- These are educational projects built for learning purposes.
+- Some implementations are simplified versions of real systems.
+- Real production systems use stronger security practices and infrastructure.
+- The focus of this repository was understanding concepts deeply step-by-step.
+
+---
 
 ## 🐍 Python Projects Roadmap – From Basics to Advanced.
 1. [Python Basics – Mini Projects](https://github.com/sabirhusseinbalal/python-basics-mini-projects)
