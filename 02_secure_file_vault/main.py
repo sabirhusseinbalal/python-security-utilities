@@ -1,7 +1,6 @@
 from pathlib import Path
 from cryptography.fernet import Fernet
 import json
-import shutil
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "output"
