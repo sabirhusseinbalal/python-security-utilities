@@ -126,4 +126,4 @@ while True:
         print(f"Loaded: {path.name}")
         secure_file(path)
     else:
-        print("Invalid file!")
+        print("Invalid file or file not found.")
