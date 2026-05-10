@@ -26,7 +26,7 @@ Each project helped me learn core concepts like hashing, encryption, authenticat
 11. **[Secure File Shredder](11_secure_file_shredder/)** – Securely overwrites and deletes files.
 12. **[SSL Expiry Monitor](12_ssl_expiry_monitor/)** – Checks SSL certificate information and expiry dates.
 13. **[JWT Token Manager](13_jwt_token_manager/)** – Creates, validates, deletes, and manages JWT tokens locally.
-14. **[14. Security Toolkit](14_security_toolkit/)** – A combined toolkit containing multiple small security utilities.
+14. **[Security Toolkit](14_security_toolkit/)** – A combined toolkit containing multiple small security utilities.
 
 ---
 
