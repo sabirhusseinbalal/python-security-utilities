@@ -6,17 +6,24 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
+# Data load
+def load_json_safe(json_file):
+    if json_file.exists():
+        try:
+            with json_file.open("r") as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            print("[WARNING] Corrupted JSON detected. Resetting file.")
+            return {}
+    return {}
+
 # Main Logic
 def generate_hash(file_path):
     json_file = DATA_DIR / "data.json"
 
+    data = load_json_safe(json_file)
+
     try:
-        # Load or create JSON
-        if json_file.exists():
-            with json_file.open("r", encoding="utf-8") as f:
-                data = json.load(f)
-        else:
-            data = {}
 
         # Read file in binary mode
         with file_path.open("rb") as f:
