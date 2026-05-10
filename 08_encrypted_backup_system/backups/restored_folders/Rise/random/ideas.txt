@@ -1,0 +1,6 @@
+Project Ideas:
+- File Organizer
+- Password Vault
+- Secure Backup Tool
+- AI Notes Assistant
+- Folder Monitor

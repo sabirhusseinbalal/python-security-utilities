@@ -1,0 +1,50 @@
+The Night Before the Big Project
+
+The room was quiet except for the soft sound of keyboard clicks.
+A tired programmer stared at the glowing screen,
+half-awake,
+half-confused,
+but still trying.
+
+Outside, the rain tapped gently on the window.
+Inside, variables argued with functions,
+loops repeated themselves endlessly,
+and one mysterious bug refused to disappear.
+
+He sighed,
+drank cold coffee,
+and read the error message for the tenth time.
+
+“SyntaxError.”
+
+Again.
+
+For a moment,
+he thought about giving up.
+Maybe tomorrow would be easier.
+Maybe coding was too difficult.
+
+But then he remembered something important:
+
+Every skilled programmer
+was once a beginner
+staring at confusing code at 2 AM.
+
+So he fixed one small line.
+Then another.
+Then another.
+
+Slowly,
+the red errors disappeared.
+
+The terminal became silent.
+
+And finally…
+
+Program finished successfully.
+
+He smiled proudly at the screen,
+saved the file,
+and whispered:
+
+“Tomorrow… we learn recursion.”

@@ -1,0 +1,9 @@
+LOGIN SUCCESS user=sabir
+LOGIN FAIL user=ali
+LOGIN FAIL user=ali
+LOGIN FAIL user=ali
+LOGIN SUCCESS user=admin
+FILE ACCESS file=admin_panel.py
+LOGIN FAIL user=unknown
+LOGIN FAIL user=unknown
+LOGIN FAIL user=unknown
