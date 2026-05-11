@@ -9,6 +9,9 @@ If the file content changes even slightly, the hash will change completely.
 
 This helps understand how file integrity works in real-world systems.
 
+**YouTube Video:**
+[[File Integrity Checker (SHA256) | Security, Encryption & Utilities (Project 1)](https://youtu.be/8DiKcwMeZoI?si=-0afxZ55_m0LhHvs/)]
+
 ---
 
 ## What this project does
