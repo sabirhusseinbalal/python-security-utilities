@@ -9,6 +9,9 @@ The goal was not to build perfect enterprise tools, but to understand how real s
 
 Each project helped me learn core concepts like hashing, encryption, authentication, token systems, OTP verification, SSL certificates, port scanning, secure deletion, and monitoring.
 
+**Watch Full YouTube Playlist:**
+[[Security, Encryption & Utilities – 14 Python Projects (Group-5)](https://youtube.com/playlist?list=PLBslpEV463BeeCfTxWKSYwVdbu2W-oJ6H&si=c-epB3ueQ4xD4ei8/)]
+
 ---
 
 ## Projects
