@@ -80,7 +80,6 @@ unknown --> Suspicious activity
 
 
 ## Features
-- Real-time style log parsing (line-by-line reading)
 - User-based tracking system
 - Failed login detection system
 - Sensitive file access detection
