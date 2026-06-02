@@ -88,7 +88,7 @@ Token expired
 
 ## Project Structure
 ```
-13_token_expiry_analyzer/
+13_jwt_token_manager/
 ├── data/
 │   └── tokens.json
 ├── main.py
