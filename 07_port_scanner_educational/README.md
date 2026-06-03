@@ -5,6 +5,9 @@ This tool scans a target domain or IP address and checks which ports are open or
 
 It simulates how basic network reconnaissance works in cybersecurity.
 
+**YouTube Video:**
+[[Port Scanner (Educational) | Security, Encryption & Utilities (Project 7)](https://youtu.be/pqapWsdnFcY?si=grRzPncuiI03gr9K/)]
+
 ---
 
 ## What this project does
