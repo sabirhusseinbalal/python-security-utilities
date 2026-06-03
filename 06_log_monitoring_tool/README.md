@@ -5,6 +5,9 @@ This project reads system log files and detects suspicious activities like faile
 
 It simulates a basic security monitoring system similar to how real SOC (Security Operations Center) tools analyze logs.
 
+**YouTube Video:**
+[[Log Monitoring Tool (Security Basics) | Security, Encryption & Utilities (Project 6)](https://youtu.be/H3wAetw375c?si=CJ1fW28PRg_hAW7t/)]
+
 ---
 
 ## What this project does
