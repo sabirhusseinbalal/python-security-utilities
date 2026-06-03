@@ -7,6 +7,9 @@ It includes file hashing, password checking, port scanning, SSL certificate chec
 
 This project was built step-by-step to understand how different security tools work together in real systems.
 
+**YouTube Video:**
+[[Security Toolkit | Security, Encryption & Utilities (Project 14)](https://youtu.be/5Q_28Utuxp0?si=cV-djcKRQYn5teo1/)]
+
 ---
 
 ## What this project does
