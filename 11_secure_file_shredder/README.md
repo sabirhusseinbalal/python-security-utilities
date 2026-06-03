@@ -6,6 +6,10 @@ This project securely deletes files by overwriting their content before removing
 Instead of deleting files normally, the program rewrites the file multiple times using random data and then permanently removes it.
 
 This helps understand how secure deletion works in cybersecurity systems.
+
+**YouTube Video:**
+[[Secure File Shredder | Security, Encryption & Utilities (Project 11)](https://youtu.be/h_j2ffodntM?si=Rc1q2lATEwjEBVg1/)]
+
 ---
 
 ## What this project does
