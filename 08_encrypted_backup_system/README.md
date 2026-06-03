@@ -5,6 +5,9 @@ This project creates encrypted backups of folders and restores them using a secr
 
 It simulates a simple secure backup system used to protect files from unauthorized access.
 
+**YouTube Video:**
+[[Encrypted Backup System) | Security, Encryption & Utilities (Project 8)](https://youtu.be/-S07rfbcV_M?si=NDSLb3oY4F2SCCHN/)]
+
 ---
 
 ## What this project does
