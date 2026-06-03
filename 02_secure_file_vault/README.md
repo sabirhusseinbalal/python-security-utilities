@@ -7,6 +7,9 @@ It converts a normal file into unreadable format (encryption) and restores it ba
 
 This helps understand how data protection works in real systems.
 
+**YouTube Video:**
+[[Secure File Vault | Security, Encryption & Utilities (Project 2)](https://youtu.be/dlE1ge3Xi3s?si=RlRSvIoOvwNvgMt4/)]
+
 ---
 
 ## What this project does
