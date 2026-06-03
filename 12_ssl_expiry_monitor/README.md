@@ -7,6 +7,9 @@ It connects securely to a domain, reads SSL certificate information, and shows w
 
 This helps understand how HTTPS security and certificate monitoring work in real systems.
 
+**YouTube Video:**
+[[SSL Expiry Monitor | Security, Encryption & Utilities (Project 12)](https://youtu.be/itsWb6skvlk?si=kzaDheIEE5BpihPN/)]
+
 ---
 
 ## What this project does
