@@ -7,6 +7,9 @@ It analyzes the password and tells whether it is weak, medium, or strong.
 
 This helps understand basic password security used in real systems.
 
+**YouTube Video:**
+[[Password Strength Analyzer | Security, Encryption & Utilities (Project 3)](https://youtu.be/nnoabsytWzU?si=PdGK9hZ8QaHT62Kl/)]
+
 ---
 
 ## What this project does
