@@ -7,6 +7,9 @@ Users can create, view, and delete private notes securely using encryption keys.
 
 Each note is encrypted before saving, so the original content cannot be read directly from the file.
 
+**YouTube Video:**
+[[Secure Notes CLI | Security, Encryption & Utilities (Project 9)](https://youtu.be/in1SKRNaV_s?si=-dIlK2ZP2SyjECXk/)]
+
 ---
 
 ## What this project does
