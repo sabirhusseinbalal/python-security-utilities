@@ -9,6 +9,9 @@ The system checks whether the token is still valid, expired, or signed with the 
 
 This helps understand how authentication tokens work in backend systems and APIs.
 
+**YouTube Video:**
+[[JWT Token Manager | Security, Encryption & Utilities (Project 13)](https://youtu.be/izo4ILkjtRQ?si=GRLSmDb5SgS6fvOQ/)]
+
 ---
 
 ## What this project does
