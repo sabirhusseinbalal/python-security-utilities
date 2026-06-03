@@ -9,6 +9,9 @@ The user must enter the correct OTP to log in.
 
 This helps understand how apps like Google Authenticator or Microsoft Authenticator work.
 
+**YouTube Video:**
+[[TOTP 2FA Generator | Security, Encryption & Utilities (Project 5)](https://youtu.be/ahbKEijnTT4?si=cgrqrLYe4Mx5s20M/)]
+
 ---
 
 ## What this project does
