@@ -11,6 +11,9 @@ It helps understand how JWT tokens work internally by:
 
 This is a learning project to understand authentication concepts used in real-world backend systems.
 
+**YouTube Video:**
+[[JWT Token Validator | Security, Encryption & Utilities (Project 4)](https://youtu.be/tmD1xNusmss?si=CGwJVOqt21I-3RDN/)]
+
 ---
 
 ## What this project does
