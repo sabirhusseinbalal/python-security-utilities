@@ -6,6 +6,10 @@ This project securely stores API keys using encryption.
 Each API key is encrypted and saved into a separate file, while the encryption key is stored inside a JSON vault file.
 
 This simulates a very basic version of how secret managers and credential storage systems work.
+
+**YouTube Video:**
+[[API Key Vault Manager | Security, Encryption & Utilities (Project 10)](https://youtu.be/5sca2SM_Gzo?si=veJdsj8NZ3aZrgmt/)]
+
 ---
 
 ## What this project does
