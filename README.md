@@ -60,6 +60,8 @@ Each project helped me learn core concepts like hashing, encryption, authenticat
 - Network communication
 - Real-world security concepts
 
+---
+
 ### Clone the repository using the command:
    ```bash
    git clone https://github.com/Sabirhusseinbalal/python-security-utilities.git
