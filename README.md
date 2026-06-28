@@ -66,6 +66,7 @@ Each project helped me learn core concepts like hashing, encryption, authenticat
    ```
 
 ---
+
 ### Notes
 - These are educational projects built for learning purposes.
 - Some implementations are simplified versions of real systems.
